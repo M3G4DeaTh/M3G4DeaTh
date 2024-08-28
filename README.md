@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+⚡ Fun fact: I love learn new things 😄
+
+🔭 I’m currently working on a cool project with dotNet and Javascript!!
+
+🌱 I’m currently learning dotNet
+
+📫 How to reach me:
+linkedin.com/in/keven-marques-634bb7192/?locale=en_US
