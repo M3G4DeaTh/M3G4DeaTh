@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 🌱 I’m currently learning dotNet
 
 📫 How to reach me:
-linkedin.com/in/keven-marques-634bb7192/?locale=en_US
+linkedin.com/in/keven-marques-634bb7192
