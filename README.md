@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on a cool project with dotNet and Javascript!!
 
-🌱 I’m currently learning dotNet
+🌱 I’m currently learning GoLang
 
 📫 How to reach me:
 linkedin.com/in/keven-marques-634bb7192
